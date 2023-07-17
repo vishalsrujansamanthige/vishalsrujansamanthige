@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 the problem statements are solved using java 
 
 <!--
 **vishalsrujansamanthige/vishalsrujansamanthige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
